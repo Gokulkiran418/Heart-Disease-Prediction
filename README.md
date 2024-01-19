@@ -8,6 +8,7 @@ Run " pip install django "in the command prompt
 Locate core folder using cd command in command prompt(cd core)
 ## Step 4
 Then run the command " python manage.py runserver "
+
 You will see Run 'python manage.py migrate' to apply them.
 January 19, 2024 - 18:55:21
 Django version 5.0.1, using settings 'core.settings'
